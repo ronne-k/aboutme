@@ -37,6 +37,21 @@ James Madison University, Harrisonburg, VA
 
 - **"TechSpeak":** (Work in Progress) An AI translator taking specialized technical language and translating into Lehman's/colloquial language. Built with Python, React,TensorFlow (so far).
 
+## 💼 Work Experience
+
+### Northeastern University (Seattle, WA)
+**Teaching Assistant for Cloud Computing:** Assisted students in Cloud Computing, using skills in AWS to build a web app and build backend data support with MySQL.
+
+### KPMG, LLP (Seattle, WA)
+**Senior Associate, Data & Analytics:** Developed end-to-end web and mobile solutions on GCP, engineered a system for precise flight delay predictions, and established data pipelines for ETL/ELT processes.
+
+### Navy Federal Credit Union
+**Financial Risk Analyst:**  Created data quality report in Markdown using R and Tableau, established data pipeline and governance for credit risk team
+
+### Ernst & Young, LLP 
+**Quantitative Consultant:** Conducted forecasted risk model validations using statistical techniques (ARIMA, GARCH, etc.) and mentored new team members.
+
+
 
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** Python, Java, C, R
