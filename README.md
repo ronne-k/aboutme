@@ -26,7 +26,7 @@ Ever since, I have been captivated by the idea of creating technology that **thi
 - Data Structures, Algorithms, and Their Application in Computer Systems (C Programming)
   
 James Madison University, Harrisonburg, VA
-B.S. in Economics; Minors: Statistics, Chinese
+**B.S. in Economics; Minors: Statistics, Chinese**
 
 ## 💻 Projects:
 - **Probability & Prediction: Bicycle-Car Collision Risk in Seattle** A Predictive Model using Naive-Bayes Model Regression and Logistic Learning Models. Project made in Python. Project write up and files can be found in [this repository](https://github.com/JosephMinSong/5002_Project)
