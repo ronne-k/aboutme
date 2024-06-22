@@ -17,6 +17,7 @@ Ever since, I have been captivated by the idea of creating technology that **thi
 
 ## 📚 Education
 **Northeastern University**, Seattle, WA
+
 **M.S. Computer Science**, 4.0 GPA
 (Expected Graduation: Dec 2026)
 
@@ -26,6 +27,7 @@ Ever since, I have been captivated by the idea of creating technology that **thi
 - Data Structures, Algorithms, and Their Application in Computer Systems (C Programming)
   
 James Madison University, Harrisonburg, VA
+
 **B.S. in Economics; Minors: Statistics, Chinese**
 
 ## 💻 Projects:
